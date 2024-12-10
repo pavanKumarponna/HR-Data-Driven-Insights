@@ -25,9 +25,6 @@ The analysis is based on a robust dataset containing 22,214 records with the fol
 | City                     | City where the workplace is located.          |
 | State                    | State where the workplace is located.         |
 
----
-
-# HR Analytics - Leveraging Data-Driven Insights for Workforce Optimization
 
 
 
@@ -35,11 +32,6 @@ The analysis is based on a robust dataset containing 22,214 records with the fol
 - Introduce diversity and inclusion initiatives.
 - Revise hiring and promotion processes to reduce bias.
 - Invest in underrepresented departments like Auditing.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/HR-Analytics.git
 
 ## 🔑 Key Insights
 1. **Gender Distribution**  
@@ -50,10 +42,7 @@ The analysis is based on a robust dataset containing 22,214 records with the fol
 
 3. **Department Distribution**  
    - Engineering has the highest employee count, while Auditing remains underrepresented, presenting an opportunity for growth.
-
-
 ---
-
 ## 🚀 How to Use
 1. **Clone the Repository:**  
    Use the following command to clone the project locally:  
